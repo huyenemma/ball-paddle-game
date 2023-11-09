@@ -1,0 +1,3 @@
+/home/huyenemma/cpp/ball-paddle/build/CMakeFiles/BallPaddleGame.dir
+/home/huyenemma/cpp/ball-paddle/build/CMakeFiles/edit_cache.dir
+/home/huyenemma/cpp/ball-paddle/build/CMakeFiles/rebuild_cache.dir
